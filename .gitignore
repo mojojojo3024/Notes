@@ -2,7 +2,7 @@
 *.class
 
 #temp files
-#.java~
+.java~
 
 # Log file
 *.log
